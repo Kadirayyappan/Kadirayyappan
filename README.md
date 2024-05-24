@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Kadir
+- 👀 I’m interested in data analyist
