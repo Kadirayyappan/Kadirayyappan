@@ -1,4 +1,5 @@
-👋 Hi, I’m @Kadir
+👋 Hi
+I’m @Kadir
 Artificial Intelligence and Data Science Student at Panimalar Engineering College. I'm passionate about leveraging technology to make meaningful advancements, and my academic and professional journey reflects my resilience and adaptability.
 
 About Me 
