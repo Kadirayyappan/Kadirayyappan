@@ -1,6 +1,6 @@
 <h1> hey! it's Kadir here</h1>
 
-<h3 align="center">Artificial Intelligence and Data Science Student at Panimalar Engineering College. I'm passionate about leveraging technology to make meaningful advancements, and my academic and professional journey reflects my resilience and adaptability.</h3>
+<h3>Artificial Intelligence and Data Science Student at Panimalar Engineering College. I'm passionate about leveraging technology to make meaningful advancements, and my academic and professional journey reflects my resilience and adaptability.</h3>
 <img align="right" alt=coding width=400 src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 - 🔭 I’m currently working on **speech emotion recognition projects**
