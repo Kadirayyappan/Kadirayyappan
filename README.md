@@ -1,6 +1,17 @@
-<h1> hey! it's Kadir here</h1>
+# Hi there! 👋 
 
-<h3>Artificial Intelligence and Data Science Student at Panimalar Engineering College. I'm passionate about leveraging technology to make meaningful advancements, and my academic and professional journey reflects my resilience and adaptability.</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F5EC&width=435&lines=It's+Kadir+Here;AI+ENGINEER)](https://git.io/typing-svg)
+
+---
+
+## About Me 🚀
+
+I'm an **Artificial Intelligence and Data Science Student** at **Panimalar Engineering College**.  
+Passionate about leveraging technology to drive meaningful advancements, I am committed to continuous learning and professional growth.
+
+---
+
 <img align="right" alt=coding width=400 src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 - 🔭 I’m currently working on **speech emotion recognition projects**
