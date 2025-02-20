@@ -46,11 +46,10 @@ Passionate about leveraging technology to drive meaningful advancements, I am co
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kadirayyappan&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Kadirayyappan&theme=dark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kadirayyappan&theme=dark" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kadirayyappan&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
