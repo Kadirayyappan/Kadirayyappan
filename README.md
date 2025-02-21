@@ -3,9 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=Kadirayyappan-codes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F7F5EC&width=435&lines=Hey!+I'm+Kadir;AI+%26+ML+Enthusiast;Let's+Build+Awesome+Projects!+🚀)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Hi+I'm+kadir;AI+And+DS+Engineer;Let's+Build+Awesome+Projects!)](https://git.io/typing-svg)
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 </p>
